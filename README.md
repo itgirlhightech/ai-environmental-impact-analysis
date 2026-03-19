@@ -38,6 +38,6 @@ Isso exigiu a construção de relações indiretas e o uso de raciocínio analí
 
 ## Dashboard
 ### First Page
-![page1](../Captura%20de%20tela%202026-03-19%20153154.png)
+![page1](../img/Captura%20de%20tela%202026-03-19%20153154.png)
 ### Second Page
-![page2](../Captura%20de%20tela%202026-03-19%20153339.png)
+![page2](../img/Captura%20de%20tela%202026-03-19%20153339.png)
